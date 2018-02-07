@@ -1,0 +1,9 @@
+.container {
+  /* when user is selecting cells */
+  background: #bce8f1;
+  opacity: 1; }
+
+ .panel panel-primary{
+  /* when user is selecting cells */
+  background: #045b75;
+  opacity: 1; }
